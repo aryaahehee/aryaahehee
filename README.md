@@ -1,40 +1,92 @@
-# Hi there 👋 I'm Arya
+<h1 align="center">Hi 👋, I'm Arya Patil</h1>
 
-🎓 B.Tech AI & Data Science Student
+<h3 align="center">
+AI & Data Science Student | Future Software Engineer
+</h3>
 
-💻 Currently Learning
+<p align="center">
+Learning something new every day 🚀
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+🌱 Currently learning
+
 - C++
 - Data Structures & Algorithms
 - SQL
 - Python
 - Machine Learning
 
----
+🎯 Goal
 
-## 🚀 About Me
-
-- 🌱 Currently improving my DSA skills
-- 📚 Learning SQL and Backend Development
-- 🤖 Interested in AI & Machine Learning
-- 🎯 Goal: Become a Software Engineer
+Become a Software Engineer at a top product-based company.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaahehee&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaahehee&layout=compact&theme=tokyonight)
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaahehee&layout=compact&theme=tokyonight)
+
+---
+
+## 💻 Current Focus
+
+✔ Data Structures & Algorithms
+
+✔ SQL
+
+✔ Machine Learning
+
+✔ Building Projects
+
+---
+
+## 📌 Featured Projects
+
+🚀 Resume Screening System
+
+📊 SQL Data Analysis
+
+🤖 Machine Learning Projects
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arya-patil-75b82a33b/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aryahehe_1980/)
 
 ---
 
